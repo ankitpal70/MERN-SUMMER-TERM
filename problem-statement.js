@@ -1,4 +1,5 @@
-//You are given an array of customer orders from an online store. Each order contains customer details, purchased items, quantity, price, discount, and payment status.
+//You are given an array of customer orders from an online store. Each order contains customer details,
+purchased items, quantity, price, discount, and payment status.
 
 
 const orders = [
